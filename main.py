@@ -2,7 +2,7 @@
 # Group Manager Bot
 # Author: krishnaji (https://github.com/krishnaji020210)
 # Support: https://t.me/+t42KngFTf5A2YzEx
-# Channel: https://t.me/jwowjwug3
+# Channel: https://t.me/l_ll_Lord_Krishna_ll_l
 # YouTube: https://youtube.com/@kanahajikideewani
 # License: Open-source (keep credits, no resale)
 # ============================================================
