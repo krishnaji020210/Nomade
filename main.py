@@ -1,9 +1,9 @@
 # ============================================================
 # Group Manager Bot
-# Author: learningbots79 (https://github.com/learningbots79)
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+# Author: krishnaji (https://github.com/krishnaji020210)
+# Support: https://t.me/+t42KngFTf5A2YzEx
+# Channel: https://t.me/jwowjwug3
+# YouTube: https://youtube.com/@kanahajikideewani
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
